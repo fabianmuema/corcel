@@ -1,14 +1,14 @@
 {
-    "name": "jgrossi/corcel",
+    "name": "fabianmuema/corcel",
     "replace": { "juniorgrossi/corcel": "self.version" },
-    "description": "Use WordPress backend with Laravel or any PHP framework",
-    "homepage": "http://github.com/corcel/corcel",
+    "description": "Use WordPress backend with Laravel or any PHP framework upgrade for laravel 9 and 10",
+    "homepage": "http://github.com/fabianmuema/corcel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Junior Grossi",
-            "email": "juniorgro@gmail.com",
-            "homepage": "http://jgrossi.com"
+            "name": "Fabian Muema",
+            "email": "muemafabian@gmail.com",
+            "homepage": "https://github.com/fabianmuema"
         }
     ],
     "require": {
